@@ -1,0 +1,33 @@
+version: "3"
+
+services:
+  react-app:
+    build:
+      context: . # This refers to the directory where your Dockerfile is located
+      dockerfile: Dockerfile
+    ports:
+      - "3002:3000" # Exposes React app on port 3000
+    volumes:
+      - .:/app
+      - /app/node_modules
+    depends_on:
+      - mock-server
+      - location-server
+
+  mock-server:
+    image: node:18-alpine
+    working_dir: /app
+    volumes:
+      - ./univ-intel-2.json:/app/univ-intel-2.json
+    command: npx json-server --watch  univ-intel-2.json --port 3001
+    ports:
+      - "3001:3001" # Exposes the mock server on port 5000
+
+  location-server:
+      image: node:18-alpine
+      working_dir: /app
+      volumes:
+        - ./locations.json:/app/locations.json
+      command: npx json-server --watch locations.json --port 3003
+      ports:
+        - "3003:3003" # Exposes the mock server on port 5000

@@ -1,0 +1,1271 @@
+{
+  "series": [
+    {
+      "current": 4.67,
+      "ts": "2024-09-26T21:20:00",
+      "voltage": 108.69,
+      "watts": 348.77
+    },
+    {
+      "current": 4.49,
+      "ts": "2024-09-26T21:21:00",
+      "voltage": 107.94,
+      "watts": 329.27
+    },
+    {
+      "current": 5.01,
+      "ts": "2024-09-26T21:22:00",
+      "voltage": 108.54,
+      "watts": 384.6
+    },
+    {
+      "current": 5.36,
+      "ts": "2024-09-26T21:23:00",
+      "voltage": 109,
+      "watts": 410.75
+    },
+    {
+      "current": 4.95,
+      "ts": "2024-09-26T21:24:00",
+      "voltage": 110.53,
+      "watts": 391.92
+    },
+    {
+      "current": 5.03,
+      "ts": "2024-09-26T21:25:00",
+      "voltage": 109.85,
+      "watts": 384.21
+    },
+    {
+      "current": 5.3,
+      "ts": "2024-09-26T21:26:00",
+      "voltage": 110.99,
+      "watts": 417.18
+    },
+    {
+      "current": 4.9,
+      "ts": "2024-09-26T21:27:00",
+      "voltage": 108.64,
+      "watts": 379.04
+    },
+    {
+      "current": 4.52,
+      "ts": "2024-09-26T21:28:00",
+      "voltage": 108.26,
+      "watts": 339.41
+    },
+    {
+      "current": 5.12,
+      "ts": "2024-09-26T21:29:00",
+      "voltage": 110.47,
+      "watts": 402.84
+    },
+    {
+      "current": 5.32,
+      "ts": "2024-09-26T21:30:00",
+      "voltage": 108.22,
+      "watts": 406.91
+    },
+    {
+      "current": 4.1,
+      "ts": "2024-09-26T21:31:00",
+      "voltage": 109.56,
+      "watts": 309.94
+    },
+    {
+      "current": 6.24,
+      "ts": "2024-09-26T21:32:00",
+      "voltage": 113.27,
+      "watts": 479.68
+    },
+    {
+      "current": 4.79,
+      "ts": "2024-09-26T21:33:00",
+      "voltage": 111.04,
+      "watts": 379.02
+    },
+    {
+      "current": 4.66,
+      "ts": "2024-09-26T21:34:00",
+      "voltage": 112.24,
+      "watts": 335.26
+    },
+    {
+      "current": 4.87,
+      "ts": "2024-09-26T21:35:00",
+      "voltage": 107.28,
+      "watts": 383.73
+    },
+    {
+      "current": 5.8,
+      "ts": "2024-09-26T21:36:00",
+      "voltage": 103.57,
+      "watts": 421.62
+    },
+    {
+      "current": 6.37,
+      "ts": "2024-09-26T21:37:00",
+      "voltage": 111.46,
+      "watts": 496.62
+    },
+    {
+      "current": 6.2,
+      "ts": "2024-09-26T21:38:00",
+      "voltage": 107.75,
+      "watts": 504.39
+    },
+    {
+      "current": 4.6,
+      "ts": "2024-09-26T21:39:00",
+      "voltage": 113.29,
+      "watts": 400.24
+    },
+    {
+      "current": 4.67,
+      "ts": "2024-09-26T21:40:00",
+      "voltage": 108.73,
+      "watts": 340.44
+    },
+    {
+      "current": 5.31,
+      "ts": "2024-09-26T21:41:00",
+      "voltage": 115.5,
+      "watts": 450.03
+    },
+    {
+      "current": 5.89,
+      "ts": "2024-09-26T21:42:00",
+      "voltage": 112.57,
+      "watts": 447.8
+    },
+    {
+      "current": 5.19,
+      "ts": "2024-09-26T21:43:00",
+      "voltage": 111.17,
+      "watts": 406.06
+    },
+    {
+      "current": 5.02,
+      "ts": "2024-09-26T21:44:00",
+      "voltage": 116.01,
+      "watts": 384.38
+    },
+    {
+      "current": 5.19,
+      "ts": "2024-09-26T21:45:00",
+      "voltage": 107.94,
+      "watts": 405.21
+    },
+    {
+      "current": 5.08,
+      "ts": "2024-09-26T21:46:00",
+      "voltage": 116.37,
+      "watts": 417.33
+    },
+    {
+      "current": 4.99,
+      "ts": "2024-09-26T21:47:00",
+      "voltage": 109.88,
+      "watts": 401.95
+    },
+    {
+      "current": 5.5,
+      "ts": "2024-09-26T21:48:00",
+      "voltage": 109.82,
+      "watts": 418.79
+    },
+    {
+      "current": 5.14,
+      "ts": "2024-09-26T21:49:00",
+      "voltage": 110.18,
+      "watts": 379.19
+    },
+    {
+      "current": 5.55,
+      "ts": "2024-09-26T21:50:00",
+      "voltage": 114.47,
+      "watts": 447.62
+    },
+    {
+      "current": 4.01,
+      "ts": "2024-09-26T21:51:00",
+      "voltage": 110.43,
+      "watts": 344.81
+    },
+    {
+      "current": 5.2,
+      "ts": "2024-09-26T21:52:00",
+      "voltage": 108.85,
+      "watts": 396.09
+    },
+    {
+      "current": 4.19,
+      "ts": "2024-09-26T21:53:00",
+      "voltage": 104.64,
+      "watts": 298.36
+    },
+    {
+      "current": 5.74,
+      "ts": "2024-09-26T21:54:00",
+      "voltage": 110.1,
+      "watts": 433.68
+    },
+    {
+      "current": 4.41,
+      "ts": "2024-09-26T21:55:00",
+      "voltage": 112.76,
+      "watts": 372.26
+    },
+    {
+      "current": 5.72,
+      "ts": "2024-09-26T21:56:00",
+      "voltage": 107.48,
+      "watts": 403.35
+    },
+    {
+      "current": 5.8,
+      "ts": "2024-09-26T21:57:00",
+      "voltage": 113.6,
+      "watts": 485.65
+    },
+    {
+      "current": 5.62,
+      "ts": "2024-09-26T21:58:00",
+      "voltage": 115.31,
+      "watts": 452.42
+    },
+    {
+      "current": 4.65,
+      "ts": "2024-09-26T21:59:00",
+      "voltage": 117.2,
+      "watts": 392.39
+    },
+    {
+      "current": 3.55,
+      "ts": "2024-09-26T22:00:00",
+      "voltage": 115.68,
+      "watts": 302.37
+    },
+    {
+      "current": 5.43,
+      "ts": "2024-09-26T22:01:00",
+      "voltage": 111.15,
+      "watts": 435.16
+    },
+    {
+      "current": 4.48,
+      "ts": "2024-09-26T22:02:00",
+      "voltage": 109.17,
+      "watts": 356.08
+    },
+    {
+      "current": 4.49,
+      "ts": "2024-09-26T22:03:00",
+      "voltage": 109.11,
+      "watts": 359.12
+    },
+    {
+      "current": 5.16,
+      "ts": "2024-09-26T22:04:00",
+      "voltage": 110.65,
+      "watts": 393.57
+    },
+    {
+      "current": 4.54,
+      "ts": "2024-09-26T22:05:00",
+      "voltage": 107.24,
+      "watts": 317.97
+    },
+    {
+      "current": 5.98,
+      "ts": "2024-09-26T22:06:00",
+      "voltage": 112.46,
+      "watts": 481.85
+    },
+    {
+      "current": 5.39,
+      "ts": "2024-09-26T22:07:00",
+      "voltage": 110.12,
+      "watts": 443.88
+    },
+    {
+      "current": 3.67,
+      "ts": "2024-09-26T22:08:00",
+      "voltage": 109.65,
+      "watts": 271.25
+    },
+    {
+      "current": 6.02,
+      "ts": "2024-09-26T22:09:00",
+      "voltage": 112.3,
+      "watts": 495.48
+    },
+    {
+      "current": 4.43,
+      "ts": "2024-09-26T22:10:00",
+      "voltage": 110.94,
+      "watts": 329.84
+    },
+    {
+      "current": 4.93,
+      "ts": "2024-09-26T22:11:00",
+      "voltage": 111.2,
+      "watts": 410.89
+    },
+    {
+      "current": 4.55,
+      "ts": "2024-09-26T22:12:00",
+      "voltage": 110.7,
+      "watts": 362.93
+    },
+    {
+      "current": 5,
+      "ts": "2024-09-26T22:13:00",
+      "voltage": 111.8,
+      "watts": 377.44
+    },
+    {
+      "current": 4.54,
+      "ts": "2024-09-26T22:14:00",
+      "voltage": 111.19,
+      "watts": 330.41
+    },
+    {
+      "current": 5.49,
+      "ts": "2024-09-26T22:15:00",
+      "voltage": 108.6,
+      "watts": 428.28
+    },
+    {
+      "current": 5.6,
+      "ts": "2024-09-26T22:16:00",
+      "voltage": 115.63,
+      "watts": 416.57
+    },
+    {
+      "current": 6.12,
+      "ts": "2024-09-26T22:17:00",
+      "voltage": 107.92,
+      "watts": 505.12
+    },
+    {
+      "current": 4.92,
+      "ts": "2024-09-26T22:18:00",
+      "voltage": 116.75,
+      "watts": 429.72
+    },
+    {
+      "current": 6.39,
+      "ts": "2024-09-26T22:19:00",
+      "voltage": 113.72,
+      "watts": 544.86
+    },
+    {
+      "current": 5.11,
+      "ts": "2024-09-26T22:20:00",
+      "voltage": 110.86,
+      "watts": 402.49
+    },
+    {
+      "current": 6.2,
+      "ts": "2024-09-26T22:21:00",
+      "voltage": 103.57,
+      "watts": 459.84
+    },
+    {
+      "current": 6.45,
+      "ts": "2024-09-26T22:22:00",
+      "voltage": 114.65,
+      "watts": 511.2
+    },
+    {
+      "current": 4.27,
+      "ts": "2024-09-26T22:23:00",
+      "voltage": 108.69,
+      "watts": 316.62
+    },
+    {
+      "current": 4.9,
+      "ts": "2024-09-26T22:24:00",
+      "voltage": 114.3,
+      "watts": 387.11
+    },
+    {
+      "current": 4.49,
+      "ts": "2024-09-26T22:25:00",
+      "voltage": 106.48,
+      "watts": 325.34
+    },
+    {
+      "current": 4.65,
+      "ts": "2024-09-26T22:26:00",
+      "voltage": 109.69,
+      "watts": 362.59
+    },
+    {
+      "current": 6.1,
+      "ts": "2024-09-26T22:27:00",
+      "voltage": 109.42,
+      "watts": 483.5
+    },
+    {
+      "current": 5.07,
+      "ts": "2024-09-26T22:28:00",
+      "voltage": 111.97,
+      "watts": 384.27
+    },
+    {
+      "current": 4.23,
+      "ts": "2024-09-26T22:29:00",
+      "voltage": 108.08,
+      "watts": 304.91
+    },
+    {
+      "current": 6.11,
+      "ts": "2024-09-26T22:30:00",
+      "voltage": 109.93,
+      "watts": 493.55
+    },
+    {
+      "current": 4.39,
+      "ts": "2024-09-26T22:31:00",
+      "voltage": 113.69,
+      "watts": 354.62
+    },
+    {
+      "current": 5.68,
+      "ts": "2024-09-26T22:32:00",
+      "voltage": 109.11,
+      "watts": 438.06
+    },
+    {
+      "current": 4.53,
+      "ts": "2024-09-26T22:33:00",
+      "voltage": 104.24,
+      "watts": 350.33
+    },
+    {
+      "current": 5.14,
+      "ts": "2024-09-26T22:34:00",
+      "voltage": 111.62,
+      "watts": 408.17
+    },
+    {
+      "current": 4.9,
+      "ts": "2024-09-26T22:35:00",
+      "voltage": 106.67,
+      "watts": 383.56
+    },
+    {
+      "current": 5.15,
+      "ts": "2024-09-26T22:36:00",
+      "voltage": 108.74,
+      "watts": 417.08
+    },
+    {
+      "current": 5.8,
+      "ts": "2024-09-26T22:37:00",
+      "voltage": 108.86,
+      "watts": 439.06
+    },
+    {
+      "current": 4.05,
+      "ts": "2024-09-26T22:38:00",
+      "voltage": 110.65,
+      "watts": 306.73
+    },
+    {
+      "current": 5.95,
+      "ts": "2024-09-26T22:39:00",
+      "voltage": 111.34,
+      "watts": 452.67
+    },
+    {
+      "current": 5.51,
+      "ts": "2024-09-26T22:40:00",
+      "voltage": 112.3,
+      "watts": 460.69
+    },
+    {
+      "current": 5.08,
+      "ts": "2024-09-26T22:41:00",
+      "voltage": 107.27,
+      "watts": 390.64
+    },
+    {
+      "current": 4.86,
+      "ts": "2024-09-26T22:42:00",
+      "voltage": 108.51,
+      "watts": 369.9
+    },
+    {
+      "current": 3.61,
+      "ts": "2024-09-26T22:43:00",
+      "voltage": 108.93,
+      "watts": 287.33
+    },
+    {
+      "current": 5.35,
+      "ts": "2024-09-26T22:44:00",
+      "voltage": 110.77,
+      "watts": 408.91
+    },
+    {
+      "current": 5.63,
+      "ts": "2024-09-26T22:45:00",
+      "voltage": 111.77,
+      "watts": 479.28
+    },
+    {
+      "current": 3.92,
+      "ts": "2024-09-26T22:46:00",
+      "voltage": 113.74,
+      "watts": 326.55
+    },
+    {
+      "current": 4.9,
+      "ts": "2024-09-26T22:47:00",
+      "voltage": 109.47,
+      "watts": 371.9
+    },
+    {
+      "current": 5.57,
+      "ts": "2024-09-26T22:48:00",
+      "voltage": 112.7,
+      "watts": 431.95
+    },
+    {
+      "current": 4.3,
+      "ts": "2024-09-26T22:49:00",
+      "voltage": 108.54,
+      "watts": 311.02
+    },
+    {
+      "current": 4.39,
+      "ts": "2024-09-26T22:50:00",
+      "voltage": 109.26,
+      "watts": 315.2
+    },
+    {
+      "current": 5.82,
+      "ts": "2024-09-26T22:51:00",
+      "voltage": 110.28,
+      "watts": 459.15
+    },
+    {
+      "current": 5.24,
+      "ts": "2024-09-26T22:52:00",
+      "voltage": 105.53,
+      "watts": 361.51
+    },
+    {
+      "current": 5.78,
+      "ts": "2024-09-26T22:53:00",
+      "voltage": 109.94,
+      "watts": 453.94
+    },
+    {
+      "current": 5.7,
+      "ts": "2024-09-26T22:54:00",
+      "voltage": 111.18,
+      "watts": 452.97
+    },
+    {
+      "current": 4.96,
+      "ts": "2024-09-26T22:55:00",
+      "voltage": 110.66,
+      "watts": 351.95
+    },
+    {
+      "current": 5.55,
+      "ts": "2024-09-26T22:56:00",
+      "voltage": 107.58,
+      "watts": 421.19
+    },
+    {
+      "current": 4.05,
+      "ts": "2024-09-26T22:57:00",
+      "voltage": 114.46,
+      "watts": 308.27
+    },
+    {
+      "current": 6.2,
+      "ts": "2024-09-26T22:58:00",
+      "voltage": 110.84,
+      "watts": 499.25
+    },
+    {
+      "current": 4.36,
+      "ts": "2024-09-26T22:59:00",
+      "voltage": 106.44,
+      "watts": 309.8
+    },
+    {
+      "current": 5.96,
+      "ts": "2024-09-26T23:00:00",
+      "voltage": 110.02,
+      "watts": 454.89
+    },
+    {
+      "current": 5.44,
+      "ts": "2024-09-26T23:01:00",
+      "voltage": 114.03,
+      "watts": 447.53
+    },
+    {
+      "current": 4.38,
+      "ts": "2024-09-26T23:02:00",
+      "voltage": 113.78,
+      "watts": 338.05
+    },
+    {
+      "current": 5.92,
+      "ts": "2024-09-26T23:03:00",
+      "voltage": 106.54,
+      "watts": 435.31
+    },
+    {
+      "current": 3.45,
+      "ts": "2024-09-26T23:04:00",
+      "voltage": 106.41,
+      "watts": 240.68
+    },
+    {
+      "current": 4.38,
+      "ts": "2024-09-26T23:05:00",
+      "voltage": 113.81,
+      "watts": 343.26
+    },
+    {
+      "current": 5.71,
+      "ts": "2024-09-26T23:06:00",
+      "voltage": 107.65,
+      "watts": 416.85
+    },
+    {
+      "current": 4.64,
+      "ts": "2024-09-26T23:07:00",
+      "voltage": 107.21,
+      "watts": 334.6
+    },
+    {
+      "current": 5.29,
+      "ts": "2024-09-26T23:08:00",
+      "voltage": 105.26,
+      "watts": 409.38
+    },
+    {
+      "current": 3.83,
+      "ts": "2024-09-26T23:09:00",
+      "voltage": 107.28,
+      "watts": 283.76
+    },
+    {
+      "current": 4.92,
+      "ts": "2024-09-26T23:10:00",
+      "voltage": 112.23,
+      "watts": 378.37
+    },
+    {
+      "current": 4.22,
+      "ts": "2024-09-26T23:11:00",
+      "voltage": 108.31,
+      "watts": 307.88
+    },
+    {
+      "current": 5.85,
+      "ts": "2024-09-26T23:12:00",
+      "voltage": 110.23,
+      "watts": 430.15
+    },
+    {
+      "current": 5.68,
+      "ts": "2024-09-26T23:13:00",
+      "voltage": 111.01,
+      "watts": 426.79
+    },
+    {
+      "current": 4.72,
+      "ts": "2024-09-26T23:14:00",
+      "voltage": 110.15,
+      "watts": 378.26
+    },
+    {
+      "current": 4.09,
+      "ts": "2024-09-26T23:15:00",
+      "voltage": 108.96,
+      "watts": 316.89
+    },
+    {
+      "current": 4.63,
+      "ts": "2024-09-26T23:16:00",
+      "voltage": 106.66,
+      "watts": 371.87
+    },
+    {
+      "current": 5.99,
+      "ts": "2024-09-26T23:17:00",
+      "voltage": 107.14,
+      "watts": 434.02
+    },
+    {
+      "current": 5.65,
+      "ts": "2024-09-26T23:18:00",
+      "voltage": 109.47,
+      "watts": 411.98
+    },
+    {
+      "current": 4.28,
+      "ts": "2024-09-26T23:19:00",
+      "voltage": 108.98,
+      "watts": 361.47
+    },
+    {
+      "current": 5.79,
+      "ts": "2024-09-26T23:20:00",
+      "voltage": 111.87,
+      "watts": 443.71
+    },
+    {
+      "current": 4.35,
+      "ts": "2024-09-26T23:21:00",
+      "voltage": 110.66,
+      "watts": 318.61
+    },
+    {
+      "current": 6.37,
+      "ts": "2024-09-26T23:22:00",
+      "voltage": 107.66,
+      "watts": 490.34
+    },
+    {
+      "current": 5.11,
+      "ts": "2024-09-26T23:23:00",
+      "voltage": 106.98,
+      "watts": 362.61
+    },
+    {
+      "current": 5.32,
+      "ts": "2024-09-26T23:24:00",
+      "voltage": 106.53,
+      "watts": 421.14
+    },
+    {
+      "current": 5.17,
+      "ts": "2024-09-26T23:25:00",
+      "voltage": 109.58,
+      "watts": 433.91
+    },
+    {
+      "current": 5.12,
+      "ts": "2024-09-26T23:26:00",
+      "voltage": 109.37,
+      "watts": 372.26
+    },
+    {
+      "current": 5.38,
+      "ts": "2024-09-26T23:27:00",
+      "voltage": 110.69,
+      "watts": 417.98
+    },
+    {
+      "current": 5.67,
+      "ts": "2024-09-26T23:28:00",
+      "voltage": 112.17,
+      "watts": 462.3
+    },
+    {
+      "current": 4.61,
+      "ts": "2024-09-26T23:29:00",
+      "voltage": 113.44,
+      "watts": 356.09
+    },
+    {
+      "current": 5.79,
+      "ts": "2024-09-26T23:30:00",
+      "voltage": 115.24,
+      "watts": 441.48
+    },
+    {
+      "current": 5.1,
+      "ts": "2024-09-26T23:31:00",
+      "voltage": 106.68,
+      "watts": 404.7
+    },
+    {
+      "current": 3.48,
+      "ts": "2024-09-26T23:32:00",
+      "voltage": 106.58,
+      "watts": 260.5
+    },
+    {
+      "current": 4.08,
+      "ts": "2024-09-26T23:33:00",
+      "voltage": 109.91,
+      "watts": 307.42
+    },
+    {
+      "current": 3.57,
+      "ts": "2024-09-26T23:34:00",
+      "voltage": 117.47,
+      "watts": 295.23
+    },
+    {
+      "current": 5.45,
+      "ts": "2024-09-26T23:35:00",
+      "voltage": 109.84,
+      "watts": 433.61
+    },
+    {
+      "current": 5.83,
+      "ts": "2024-09-26T23:36:00",
+      "voltage": 106.34,
+      "watts": 432.67
+    },
+    {
+      "current": 4.48,
+      "ts": "2024-09-26T23:37:00",
+      "voltage": 106.89,
+      "watts": 342.38
+    },
+    {
+      "current": 4.53,
+      "ts": "2024-09-26T23:38:00",
+      "voltage": 116.19,
+      "watts": 361.7
+    },
+    {
+      "current": 4.72,
+      "ts": "2024-09-26T23:39:00",
+      "voltage": 110.22,
+      "watts": 351.28
+    },
+    {
+      "current": 4.48,
+      "ts": "2024-09-26T23:40:00",
+      "voltage": 112.59,
+      "watts": 357.72
+    },
+    {
+      "current": 6.31,
+      "ts": "2024-09-26T23:41:00",
+      "voltage": 108.64,
+      "watts": 502.46
+    },
+    {
+      "current": 4.82,
+      "ts": "2024-09-26T23:42:00",
+      "voltage": 109.08,
+      "watts": 364.52
+    },
+    {
+      "current": 3.96,
+      "ts": "2024-09-26T23:43:00",
+      "voltage": 108.68,
+      "watts": 282.26
+    },
+    {
+      "current": 5.74,
+      "ts": "2024-09-26T23:44:00",
+      "voltage": 113.98,
+      "watts": 444.51
+    },
+    {
+      "current": 3.79,
+      "ts": "2024-09-26T23:45:00",
+      "voltage": 110.16,
+      "watts": 290.28
+    },
+    {
+      "current": 3.77,
+      "ts": "2024-09-26T23:46:00",
+      "voltage": 108.37,
+      "watts": 297.81
+    },
+    {
+      "current": 4.06,
+      "ts": "2024-09-26T23:47:00",
+      "voltage": 109.08,
+      "watts": 286.14
+    },
+    {
+      "current": 5.77,
+      "ts": "2024-09-26T23:48:00",
+      "voltage": 114.34,
+      "watts": 447.79
+    },
+    {
+      "current": 5.23,
+      "ts": "2024-09-26T23:49:00",
+      "voltage": 111.18,
+      "watts": 436.08
+    },
+    {
+      "current": 5.4,
+      "ts": "2024-09-26T23:50:00",
+      "voltage": 111.5,
+      "watts": 447.16
+    },
+    {
+      "current": 4.89,
+      "ts": "2024-09-26T23:51:00",
+      "voltage": 104.93,
+      "watts": 387.12
+    },
+    {
+      "current": 4.78,
+      "ts": "2024-09-26T23:52:00",
+      "voltage": 108.45,
+      "watts": 360.54
+    },
+    {
+      "current": 4.67,
+      "ts": "2024-09-26T23:53:00",
+      "voltage": 110.64,
+      "watts": 352.34
+    },
+    {
+      "current": 4.87,
+      "ts": "2024-09-26T23:54:00",
+      "voltage": 107.1,
+      "watts": 368.59
+    },
+    {
+      "current": 7.05,
+      "ts": "2024-09-26T23:55:00",
+      "voltage": 115.29,
+      "watts": 514.78
+    },
+    {
+      "current": 5.82,
+      "ts": "2024-09-26T23:56:00",
+      "voltage": 111.29,
+      "watts": 433.12
+    },
+    {
+      "current": 6.35,
+      "ts": "2024-09-26T23:57:00",
+      "voltage": 108.38,
+      "watts": 517.55
+    },
+    {
+      "current": 5.93,
+      "ts": "2024-09-26T23:58:00",
+      "voltage": 111.29,
+      "watts": 480.39
+    },
+    {
+      "current": 4.52,
+      "ts": "2024-09-26T23:59:00",
+      "voltage": 114.02,
+      "watts": 341.98
+    }
+  ],
+  "navList": [
+    { "id": 1, "name": "Atlanta Division", "parent": null },
+    { "id": 2, "name": "Fleet of Saints", "parent": 1 },
+    { "id": 3, "name": "Cruiser", "parent": 2 },
+    { "id": 4, "name": "Frigate", "parent": 2 },
+    { "id": 5, "name": "Galleon", "parent": 2 },
+    { "id": 6, "name": "Battleship Division", "parent": null },
+    { "id": 7, "name": "Fleet of Destroyers", "parent": 6 },
+    { "id": 8, "name": "Destroyer", "parent": 7 },
+    { "id": 9, "name": "Pacific Armada", "parent": null },
+    { "id": 10, "name": "Fleet of Guardians", "parent": 9 },
+    { "id": 11, "name": "Corvette", "parent": 10 },
+    { "id": 12, "name": "Patrol Ship", "parent": 10 },
+    { "id": 13, "name": "Carrier", "parent": 9 },
+    { "id": 14, "name": "Submarine Division", "parent": null },
+    { "id": 15, "name": "Submarine Alpha", "parent": 14 },
+    { "id": 16, "name": "Submarine Beta", "parent": 14 },
+    { "id": 17, "name": "Destroyer Division", "parent": null },
+    { "id": 18, "name": "Fleet of Avengers", "parent": 17 },
+    { "id": 19, "name": "Warship", "parent": 18 },
+    { "id": 20, "name": "Missile Destroyer", "parent": 18 },
+    { "id": 21, "name": "Command Center", "parent": null },
+    { "id": 22, "name": "Strategic Operations", "parent": 21 },
+    { "id": 23, "name": "Communications Hub", "parent": 21 },
+    { "id": 24, "name": "Security Unit", "parent": 21 },
+    { "id": 25, "name": "Admiral's Command", "parent": null },
+    { "id": 26, "name": "Fleet Command HQ", "parent": 25 },
+    { "id": 27, "name": "Support Fleet", "parent": 25 },
+    { "id": 28, "name": "Reconnaissance Unit", "parent": 27 },
+    { "id": 29, "name": "Medical Unit", "parent": 27 },
+    { "id": 30, "name": "Transport Unit", "parent": 27 }
+  ],
+  "hierarchy": {
+    "id": "c9c4361c-f31a-4905-877c-df83720cdd88",
+    "obj_name": "RoadRunner Logistics",
+    "obj_display_name": "RoadRunner Logistics Inc.",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "enabled": true,
+    "attribs": {
+      "industry": "Trucking",
+      "fleet_size": 500
+    },
+    "ensemble_groups": [
+      {
+        "id": "f3be68e5-42b9-43f3-a445-c71f21afba7d",
+        "obj_name": "Midwest Logistics Division",
+        "obj_display_name": "Midwest Division",
+        "latitude": 41.8781,
+        "longitude": -87.6298,
+        "enabled": true,
+        "attribs": {
+          "region": "Midwest",
+          "manager": "John Doe"
+        },
+        "ensembles": [
+          {
+            "id": "bf457001-3eef-4539-8346-a116fc76c24d",
+            "obj_name": "ensemble_06",
+            "obj_display_name": "Ensemble 06",
+            "latitude": 40.7128,
+            "longitude": -74.006,
+            "enabled": true,
+            "attribs": {
+              "cargo": "Perishables",
+              "driver": "Bob Smith"
+            },
+            "alert_log": [
+              
+            ],
+            "alert_configuration": {},
+            "assets": [
+              {
+                "id": "b38a2271-7897-4ed6-998e-ff35100f3748",
+                "obj_name": "Generator-001",
+                "obj_display_name": "Generator 001",
+                "latitude": 34.0522,
+                "longitude": -118.2437,
+                "enabled": true,
+                "attribs": {
+                  "fuel_type": "Diesel",
+                  "manufacturer": "Cummins",
+                  "output_power": "100kW"
+                },
+                "sensors": [
+                  {
+                    "id": "313c39f1-cea6-4431-9a7e-3e0f3e59f340",
+                    "obj_name": "voltage",
+                    "obj_display_name": "Voltage display",
+                    "latitude": 0,
+                    "longitude": 0,
+                    "enabled": true,
+                    "attribs": {}
+                  },
+                  {
+                    "id": "a75d7043-6da5-4880-9522-697ef5833258",
+                    "obj_name": "current",
+                    "obj_display_name": "Current Display",
+                    "latitude": 0,
+                    "longitude": 0,
+                    "enabled": true,
+                    "attribs": {}
+                  },
+                  {
+                    "id": "07b11c45-795c-46c9-8a2b-833a7b912981",
+                    "obj_name": "power_factor",
+                    "obj_display_name": "Power Factor Display",
+                    "latitude": 0,
+                    "longitude": 0,
+                    "enabled": true,
+                    "attribs": {}
+                  },
+                  {
+                    "id": "0a23d62b-dd03-4ef5-8755-adb51122a509",
+                    "obj_name": "fuel_rate",
+                    "obj_display_name": "Fuel Rate Display",
+                    "latitude": 0,
+                    "longitude": 0,
+                    "enabled": true,
+                    "attribs": {}
+                  },
+                  {
+                    "id": "0a6105d0-4bfa-495a-96d6-ca53d885cdba",
+                    "obj_name": "watts",
+                    "obj_display_name": "Watts Display",
+                    "latitude": 0,
+                    "longitude": 0,
+                    "enabled": true,
+                    "attribs": {}
+                  }
+                ]
+              },
+              {
+                "id": "b38a2271-7897-4ed6-998e-ff35100f3749",
+                "obj_name": "Generator-002",
+                "obj_display_name": "Generator 002",
+                "latitude": 34.0523,
+                "longitude": -119.2437,
+                "enabled": true,
+                "attribs": {
+                  "fuel_type": "Diesels",
+                  "manufacturer": "Cumminss",
+                  "output_power": "100kWS"
+                },
+                "sensors": [
+                  {
+                    "id": "313c39f1-cea6-4431-9a7e-3e0f3e59f341",
+                    "obj_name": "voltage",
+                    "obj_display_name": "Voltage display",
+                    "latitude": 0,
+                    "longitude": 0,
+                    "enabled": true,
+                    "attribs": {}
+                  },
+                  {
+                    "id": "a75d7043-6da5-4880-9522-697ef5833259",
+                    "obj_name": "capacitance",
+                    "obj_display_name": "Current Display",
+                    "latitude": 0,
+                    "longitude": 0,
+                    "enabled": true,
+                    "attribs": {}
+                  },
+                  {
+                    "id": "07b11c45-795c-46c9-8a2b-833a7b912982",
+                    "obj_name": "Temperature",
+                    "obj_display_name": "Power Factor Display",
+                    "latitude": 0,
+                    "longitude": 0,
+                    "enabled": true,
+                    "attribs": {}
+                  },
+                  {
+                    "id": "0a23d62b-dd03-4ef5-8755-adb51122a500",
+                    "obj_name": "Fuel",
+                    "obj_display_name": "Fuel Rate Display",
+                    "latitude": 0,
+                    "longitude": 0,
+                    "enabled": true,
+                    "attribs": {}
+                  },
+                  {
+                    "id": "0a6105d0-4bfa-495a-96d6-ca53d885cdbb",
+                    "obj_name": "Ohms",
+                    "obj_display_name": "Watts Display",
+                    "latitude": 0,
+                    "longitude": 0,
+                    "enabled": true,
+                    "attribs": {}
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "summary": 
+    [
+      {
+         "metric": "fuel_consumption_rate",
+         "display_name": "Fuel Consumption Rate",
+         "value": 155,
+         "units": "gallons"
+      },
+      {
+         "metric": "emission",
+         "display_name": "Emission",
+         "value": 14,
+         "units": "kg"
+      },
+      {
+         "metric": "mileage",
+         "display_name": "Mileage",
+         "value": 91.42,
+         "units": "miles"
+      }
+  ],
+  "alerts": [
+    {
+      "id": 1,
+      "start": "2024-09-26T21:47:00",
+      "end": "2024-09-26T22:00:00",
+      "eval": true
+    }
+  ],
+    "alert-instances": [
+      {
+        "ensemble_id": "b1d62838-7e23-4921-9783-7982cd194cf0",
+        "alert_config_id": "0cb7f79f-ab43-495e-9192-58d6a57acacc",
+        "start_time": "2024-09-26T21:29:00",
+        "end_time": "2024-09-26T21:36:00",
+        "eval_state": true,
+        "duration_sec": 0,
+        "censor": "voltage"
+      },
+      {
+        "ensemble_id": "b1d62838-7e23-4921-9783-7982cd194cf0",
+        "alert_config_id": "0cb7f79f-ab43-495e-9192-58d6a57acacc",
+        "start_time": "2024-09-26T23:06:00",
+        "end_time": "2024-09-26T23:19:00",
+        "eval_state": true,
+        "duration_sec": 0,
+        "censor": "current"
+      },
+      {
+        "ensemble_id": "b1d62838-7e23-4921-9783-7982cd194cf0",
+        "alert_config_id": "0cb7f79f-ab43-495e-9192-58d6a57acacc",
+        "start_time": "2025-01-27T21:35:00",
+        "end_time": "2025-01-27T21:38:00",
+        "eval_state": true,
+        "duration_sec": 0,
+        "censor": "watts"
+      },
+      {
+        "ensemble_id": "b1d62838-7e23-4921-9783-7982cd194cf0",
+        "alert_config_id": "0cb7f79f-ab43-495e-9192-58d6a57acacc",
+        "start_time": "2025-01-27T21:44:00",
+        "end_time": "2025-01-27T21:45:00",
+        "eval_state": true,
+        "duration_sec": 0,
+        "censor": "voltage"
+      },
+      {
+        "ensemble_id": "b1d62838-7e23-4921-9783-7982cd194cf0",
+        "alert_config_id": "0cb7f79f-ab43-495e-9192-58d6a57acacc",
+        "start_time": "2025-01-27T21:50:00",
+        "end_time": "2025-01-27T21:51:00",
+        "eval_state": true,
+        "duration_sec": 0,
+        "censor": "watts"
+      }
+    ],
+  "alert-configurations": {
+    "data": {
+      "alert_config": {
+        "ID": "0cb7f79f-ab43-495e-9192-58d6a57acacc",
+        "ObjName": "voltage_temp_high",
+        "ObjDesc": "Voltage reading too high",
+        "ObjDisplayName": "Voltage High Alert",
+        "AlertTypeID": 1,
+        "EnsembleID": "b1d62838-7e23-4921-9783-7982cd194cf0",
+        "TrueCondition": "voltage > 115",
+        "FalseCondition": null,
+        "StartTimerInMin": null,
+        "EndTimerInMin": null,
+        "InitState": false,
+        "NullEvalState": false,
+        "CreatedAt": "2025-01-28T03:16:11.433251Z",
+        "UpdatedAt": "2025-01-28T03:16:11.433251Z",
+        "Enabled": true,
+        "TrueExpression": null,
+        "FalseExpression": null,
+        "DataSourceExpression": null
+      },
+      "sensors": [
+        {
+          "id": "54839ef0-2b11-4250-a19d-bd615b134290",
+          "obj_name": "voltage"
+        }
+      ]
+    },
+    "message": "Alert configuration retrieved successfully"
+  }
+  
+
+}

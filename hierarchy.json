@@ -1,0 +1,109 @@
+{
+    "companies": [
+      {
+        "id": "c9c4361c-f31a-4905-877c-df83720cdd88",
+        "obj_name": "RoadRunner Logistics",
+        "obj_display_name": "RoadRunner Logistics Inc.",
+        "latitude": 37.7749,
+        "longitude": -122.4194,
+        "enabled": true,
+        "attribs": {
+          "industry": "Trucking",
+          "fleet_size": 500
+        },
+        "ensemble_groups": [
+          {
+            "id": "f3be68e5-42b9-43f3-a445-c71f21afba7d",
+            "obj_name": "Midwest Logistics Division",
+            "obj_display_name": "Midwest Division",
+            "latitude": 41.8781,
+            "longitude": -87.6298,
+            "enabled": true,
+            "attribs": {
+              "region": "Midwest",
+              "manager": "John Doe"
+            },
+            
+            "ensembles": [
+              {
+                "id": "bf457001-3eef-4539-8346-a116fc76c24d",
+                "obj_name": "ensemble_06",
+                "obj_display_name": "Ensemble 06",
+                "latitude": 40.7128,
+                "longitude": -74.006,
+                "enabled": true,
+                "attribs": {
+                  "cargo": "Perishables",
+                  "driver": "Bob Smith"
+                },
+                "assets": [
+                  {
+                    "id": "b38a2271-7897-4ed6-998e-ff35100f3748",
+                    "obj_name": "Generator-001",
+                    "obj_display_name": "Generator 001",
+                    "latitude": 34.0522,
+                    "longitude": -118.2437,
+                    "enabled": true,
+                    "attribs": {
+                      "fuel_type": "Diesel",
+                      "manufacturer": "Cummins",
+                      "output_power": "100kW"
+                    },
+                    "sensors": [
+                      {
+                        "id": "313c39f1-cea6-4431-9a7e-3e0f3e59f340",
+                        "obj_name": "voltage",
+                        "obj_display_name": "Voltage display",
+                        "latitude": 0,
+                        "longitude": 0,
+                        "enabled": true,
+                        "attribs": {}
+                      },
+                      {
+                        "id": "a75d7043-6da5-4880-9522-697ef5833258",
+                        "obj_name": "current",
+                        "obj_display_name": "Current Display",
+                        "latitude": 0,
+                        "longitude": 0,
+                        "enabled": true,
+                        "attribs": {}
+                      },
+                      {
+                        "id": "07b11c45-795c-46c9-8a2b-833a7b912981",
+                        "obj_name": "power_factor",
+                        "obj_display_name": "Power Factor Display",
+                        "latitude": 0,
+                        "longitude": 0,
+                        "enabled": true,
+                        "attribs": {}
+                      },
+                      {
+                        "id": "0a23d62b-dd03-4ef5-8755-adb51122a509",
+                        "obj_name": "fuel_rate",
+                        "obj_display_name": "Fuel Rate Display",
+                        "latitude": 0,
+                        "longitude": 0,
+                        "enabled": true,
+                        "attribs": {}
+                      },
+                      {
+                        "id": "0a6105d0-4bfa-495a-96d6-ca53d885cdba",
+                        "obj_name": "watts",
+                        "obj_display_name": "Watts Display",
+                        "latitude": 0,
+                        "longitude": 0,
+                        "enabled": true,
+                        "attribs": {}
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+          
+        ]
+      }
+    ]
+  }
+  
